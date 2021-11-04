@@ -25,6 +25,7 @@ namespace FinalASM
                 Console.WriteLine("8.Lưu file");
                 Console.WriteLine("9.Đọc file");
                 Console.WriteLine("0.Thoát");
+                Console.WriteLine("1.Ăn cứt");
                 string input = Console.ReadLine();
                 switch (input)
                 {
