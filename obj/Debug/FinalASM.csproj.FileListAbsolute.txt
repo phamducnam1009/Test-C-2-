@@ -1,0 +1,7 @@
+C:\Users\Hiep\Desktop\c#\FinalASM\FinalASM\obj\Debug\FinalASM.csprojAssemblyReference.cache
+C:\Users\Hiep\Desktop\c#\FinalASM\FinalASM\obj\Debug\FinalASM.csproj.CoreCompileInputs.cache
+C:\Users\Hiep\Desktop\c#\FinalASM\FinalASM\bin\Debug\FinalASM.exe.config
+C:\Users\Hiep\Desktop\c#\FinalASM\FinalASM\bin\Debug\FinalASM.exe
+C:\Users\Hiep\Desktop\c#\FinalASM\FinalASM\bin\Debug\FinalASM.pdb
+C:\Users\Hiep\Desktop\c#\FinalASM\FinalASM\obj\Debug\FinalASM.exe
+C:\Users\Hiep\Desktop\c#\FinalASM\FinalASM\obj\Debug\FinalASM.pdb
